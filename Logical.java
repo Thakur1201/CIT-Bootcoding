@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Logical{
+public class Test{
 public static void main (String [] args){
 	int a, b, c;
 	Scanner s1=new Scanner(System.in);
@@ -14,12 +14,6 @@ public static void main (String [] args){
 	}
 	else if((b>c)&&(c>a)){
 	System.out.println(b +" is greatest number");
-	}
-	else if((a>b)&&(a>c)){
-		System.out.println(a+" is greatest number");
-	}
-	else if((b>a)&&(b>c)){
-		System.out.println(b+" is greatest number");
 	}
 	else{
 	System.out.println(c+" is greatest number");
