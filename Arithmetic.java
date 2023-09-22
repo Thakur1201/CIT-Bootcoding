@@ -23,7 +23,7 @@ case '*':
 System.out.println("Multiplication ="+(a*b));
 break;
 case '/':
-System.out.println("Division ="+(a*b));
+System.out.println("Division ="+(a/b));
 break;
 case '%':
 System.out.println("Remainder ="+(a%b));
