@@ -5,7 +5,7 @@ public class EvenOdd
     {
         int a;
         Scanner s=new Scanner(System.in);
-        System.out.println("Enter first number:");
+        System.out.println("Enter a number:");
         a=s.nextInt();
         if(a%2==0)
         {
