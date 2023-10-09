@@ -46,7 +46,7 @@ public class Calender {
 				System.out.println("December");
 				break;
 			default:
-				System.out.println("Invalid Choise");
+				System.out.println("Invalid Choice");
 				break;
 		}
 	}
