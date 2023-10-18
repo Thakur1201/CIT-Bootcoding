@@ -24,10 +24,10 @@ public class StringHandling {
 		
 		System.out.println("\nConcatenates the two Strings: "+first.concat(second));
 		
-		System.out.println("\nEnter a sub-String to Check whether the inputs contain it: ");
+		/**System.out.println("\nEnter a sub-String to Check whether the inputs contain it: ");
 		String b=s1.nextLine();
 		System.out.println("First string contains "+b+" ? : "+first.contains(b));
-		System.out.println("Second string contains "+b+" ? : "+second.contains(b));
+		System.out.println("Second string contains "+b+" ? : "+second.contains(b));*/
 		
 		System.out.println("\nThe First string is Equal to Second string: "+first.equals(second));
 		System.out.println("\nThe First string is Equal to second string, ignoring case: "+first.equalsIgnoreCase(second));
