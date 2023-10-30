@@ -8,7 +8,7 @@ public class Rectangle implements Area,Perimeter{
 		System.out.print("Perimeter of Rectangle is: "+(2*(length+breadth)));
 	}
 	public void area() {
-		System.out.print("\nArea of Rectangle is: "+(length*breadth));
+		System.out.println("\nArea of Rectangle is: "+(length*breadth));
 	}
 	public static void main(String[] args) {
 		Scanner s1=new Scanner(System.in);	
