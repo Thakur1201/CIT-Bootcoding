@@ -10,6 +10,6 @@ public class StudentInfo {
 		System.out.print("Roll No.: ");
 		int rollno=s1.nextInt();
 		System.out.print("Branch: ");
-		String branch=s1.nextLine();
+		String branch=s1.next();
 	}
 }
